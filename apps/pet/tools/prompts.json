@@ -74,6 +74,18 @@
       "prompt": "a single upright decorated egg, cherry blossom pink shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight"
     },
     {
+      "key": "tpl-midnight",
+      "file": "midnight.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', deep midnight blue body with tiny star speckles and lighter blue belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly"
+    },
+    {
+      "key": "tpl-strawberry",
+      "file": "strawberry.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', strawberry milk white-pink body with tiny strawberry red dots and cream belly, small stubby wings, tiny orange webbed feet, a small leaf-shaped tuft on top of head, faceless (no eyes, beak or mouth), big round belly"
+    },
+    {
       "key": "app-icon",
       "file": "app-icon.png",
       "size": "1024x1024",
