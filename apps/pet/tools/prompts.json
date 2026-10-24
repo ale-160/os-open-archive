@@ -1,96 +1,2411 @@
 {
-  "style": "kawaii flat sticker illustration, soft pastel colors, thick dark brown outline, subtle highlight shading, front view, full body, centered composition, transparent background, no watermark, no text",
+  "style": "kawaii flat sticker illustration, soft pastel colors, thick dark brown outline, subtle highlight shading, transparent background, no watermark, no text",
   "assets": [
     {
       "key": "body-baby-cream",
       "file": "cream-baby.png",
       "size": "1024x1024",
-      "prompt": "a chubby round baby chick-like bird original character 'GuGu', cream yellow body with lighter cream belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', cream yellow body with lighter cream belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
     },
     {
       "key": "body-baby-mint",
       "file": "mint-baby.png",
       "size": "1024x1024",
-      "prompt": "a chubby round baby chick-like bird original character 'GuGu', soft mint green body with lighter mint belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', soft mint green body with lighter mint belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
     },
     {
       "key": "body-baby-sakura",
       "file": "sakura-baby.png",
       "size": "1024x1024",
-      "prompt": "a chubby round baby chick-like bird original character 'GuGu', cherry blossom pink body with lighter pink belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', cherry blossom pink body with lighter pink belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
     },
     {
       "key": "body-teen-cream",
       "file": "cream-teen.png",
       "size": "1024x1024",
-      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, cream yellow body with lighter cream belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, cream yellow body with lighter cream belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
     },
     {
       "key": "body-teen-mint",
       "file": "mint-teen.png",
       "size": "1024x1024",
-      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, soft mint green body with lighter mint belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, soft mint green body with lighter mint belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
     },
     {
       "key": "body-teen-sakura",
       "file": "sakura-teen.png",
       "size": "1024x1024",
-      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, cherry blossom pink body with lighter pink belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, cherry blossom pink body with lighter pink belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
     },
     {
       "key": "body-adult-cream",
       "file": "cream-adult.png",
       "size": "1024x1024",
-      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, cream yellow body with lighter cream belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, cream yellow body with lighter cream belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
     },
     {
       "key": "body-adult-mint",
       "file": "mint-adult.png",
       "size": "1024x1024",
-      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, soft mint green body with lighter mint belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, soft mint green body with lighter mint belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
     },
     {
       "key": "body-adult-sakura",
       "file": "sakura-adult.png",
       "size": "1024x1024",
-      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, cherry blossom pink body with lighter pink belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, cherry blossom pink body with lighter pink belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
     },
     {
       "key": "egg-cream",
       "file": "cream-egg.png",
       "size": "1024x1024",
-      "prompt": "a single upright decorated egg, cream yellow shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight"
+      "prompt": "a single upright decorated egg, cream yellow shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
     },
     {
       "key": "egg-mint",
       "file": "mint-egg.png",
       "size": "1024x1024",
-      "prompt": "a single upright decorated egg, soft mint green shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight"
+      "prompt": "a single upright decorated egg, soft mint green shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
     },
     {
       "key": "egg-sakura",
       "file": "sakura-egg.png",
       "size": "1024x1024",
-      "prompt": "a single upright decorated egg, cherry blossom pink shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight"
+      "prompt": "a single upright decorated egg, cherry blossom pink shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
     },
     {
       "key": "tpl-midnight",
       "file": "midnight.png",
       "size": "1024x1024",
-      "prompt": "a chubby round baby chick-like bird original character 'GuGu', deep midnight blue body with tiny star speckles and lighter blue belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly"
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', deep midnight blue body with tiny star speckles and lighter blue belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly, full body, front view, centered composition"
     },
     {
       "key": "tpl-strawberry",
       "file": "strawberry.png",
       "size": "1024x1024",
-      "prompt": "a chubby round baby chick-like bird original character 'GuGu', strawberry milk white-pink body with tiny strawberry red dots and cream belly, small stubby wings, tiny orange webbed feet, a small leaf-shaped tuft on top of head, faceless (no eyes, beak or mouth), big round belly"
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', strawberry milk white-pink body with tiny strawberry red dots and cream belly, small stubby wings, tiny orange webbed feet, a small leaf-shaped tuft on top of head, faceless (no eyes, beak or mouth), big round belly, full body, front view, centered composition"
     },
     {
       "key": "app-icon",
       "file": "app-icon.png",
       "size": "1024x1024",
       "square": true,
-      "prompt": "cute round baby chick bird head portrait original character 'GuGu', cream yellow with lighter cream face, big sparkly dark eyes, tiny orange beak, soft pink blush circles, a small tuft of two feathers on top of head, joyful smile, head and upper body only"
+      "prompt": "cute round baby chick bird head portrait original character 'GuGu', cream yellow with lighter cream face, big sparkly dark eyes, tiny orange beak, soft pink blush circles, a small tuft of two feathers on top of head, joyful smile, head and upper body only, full body, front view, centered composition"
+    },
+    {
+      "key": "acc-beanie",
+      "file": "acc/beanie.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute red knitted beanie hat with a small white pom-pom on top and folded brim, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "acc-strawhat",
+      "file": "acc/strawhat.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute straw sun hat with a baby blue ribbon band, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "acc-crown",
+      "file": "acc/crown.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny cute golden crown with rounded points and a small red gem, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "acc-party",
+      "file": "acc/party.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute colorful striped party cone hat with a yellow star on top, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "acc-scarf-star",
+      "file": "acc/scarf-star.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cozy knitted scarf in soft blue with small yellow stars pattern and a loose knot, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "acc-scarf-plaid",
+      "file": "acc/scarf-plaid.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a warm plaid scarf in cream and caramel red tartan pattern with fringed ends, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "acc-bow",
+      "file": "acc/bow.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute large pink satin bow ribbon hair accessory, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "acc-flower",
+      "file": "acc/flower.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute small sunflower hair clip with round petals and a smiling round center, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "acc-glasses",
+      "file": "acc/glasses.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a pair of cute round golden spectacles glasses with thin frames, empty lenses, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "acc-backpack",
+      "file": "acc/backpack.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny cute mint green travel backpack with a front pocket and buckle, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "deco-nest",
+      "file": "deco/nest.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cozy round woven straw bird nest bed with a soft cream cushion inside, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "deco-bowl",
+      "file": "deco/bowl.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute ceramic pet food bowl in baby blue with painted fish pattern and a few brown kibble bits, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "deco-ball",
+      "file": "deco/ball.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute ball of pink yarn with a loose thread, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "deco-plant",
+      "file": "deco/plant.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a small potted plant in a terracotta pot with three round succulent leaves, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "deco-picture",
+      "file": "deco/picture.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a small round wooden picture frame with a tiny landscape painting of hills and sun inside, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "deco-rug",
+      "file": "deco/rug.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a round braided oval rug in cream and caramel stripes, flat top view, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "deco-lamp",
+      "file": "deco/lamp.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a small cute floor lamp with warm glowing light and a mushroom shaped shade, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "deco-teddy",
+      "file": "deco/teddy.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny cute caramel teddy bear plush toy sitting, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, no character, centered"
+    },
+    {
+      "key": "pc-mountain",
+      "file": "pc/mountain.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a majestic mountain peak with snow cap above rolling clouds at golden sunrise, a tiny winding trail, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, square composition, no characters"
+    },
+    {
+      "key": "pc-beach",
+      "file": "pc/beach.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a sunny seaside with gentle turquoise waves, sandy beach, colorful seashells and a small starfish, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, square composition, no characters"
+    },
+    {
+      "key": "pc-forest",
+      "file": "pc/forest.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a dreamy forest clearing with tall green trees, red-capped mushrooms, dappled sunlight, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, square composition, no characters"
+    },
+    {
+      "key": "pc-town",
+      "file": "pc/town.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "an old town street at dusk with glowing red lanterns, stone bridge over a canal, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, square composition, no characters"
+    },
+    {
+      "key": "pc-onsen",
+      "file": "pc/onsen.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a steaming outdoor hot spring pool with wooden edge, mt fuji in the distance, falling snow, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, square composition, no characters"
+    },
+    {
+      "key": "pc-camp",
+      "file": "pc/camp.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a night campsite with a glowing orange tent under a starry milky way sky, a small campfire, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, square composition, no characters"
+    },
+    {
+      "key": "pc-field",
+      "file": "pc/field.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "golden rice fields waving in the wind under a big blue sky with fluffy clouds, a friendly scarecrow, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, square composition, no characters"
+    },
+    {
+      "key": "pc-plaza",
+      "file": "pc/plaza.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cheerful city plaza with a ferris wheel, pastel buildings, balloons and pigeons, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, square composition, no characters"
+    },
+    {
+      "key": "body-baby-choco",
+      "file": "choco-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', warm chocolate brown body with lighter cream belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-choco",
+      "file": "choco-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, warm chocolate brown shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-lavender",
+      "file": "lavender-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', soft lavender purple body with paler lilac belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-lavender",
+      "file": "lavender-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, soft lavender purple shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-soda",
+      "file": "soda-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', fresh soda blue body with pale sky belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-soda",
+      "file": "soda-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, fresh soda blue shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "item-cookie",
+      "file": "item/cookie.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a round butter cookie with visible oat flakes and a bite taken off one edge, single item only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-cake",
+      "file": "item/cake.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute slice of strawberry cream cake on a small plate with one strawberry on top, single item only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-bento",
+      "file": "item/bento.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute open bento lunch box with rice, tamagoyaki egg and broccoli neatly arranged, single item only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-soap",
+      "file": "item/soap.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a rounded pastel soap bar with bubbles on top and a lavender flower, single item only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-balloon",
+      "file": "item/balloon.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a shiny red balloon with a curly string, single item only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-medicine",
+      "file": "item/medicine.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute medicine bottle with a spoon and a small red-cross label, single item only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "scene-garden",
+      "file": "scene/garden.png",
+      "size": "1536x1024",
+      "prompt": "a flower garden with tulips and daisies, a small wooden fence, butterflies in the distance, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-lake",
+      "file": "scene/lake.png",
+      "size": "1536x1024",
+      "prompt": "a calm lakeside at late afternoon with reeds, lily pads and distant hills reflecting on water, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-bamboo",
+      "file": "scene/bamboo.png",
+      "size": "1536x1024",
+      "prompt": "a peaceful bamboo grove with tall green bamboo stalks and soft light filtering through, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-roof",
+      "file": "scene/roof.png",
+      "size": "1536x1024",
+      "prompt": "a cozy rooftop terrace with potted plants, hanging laundry line with tiny flags, city skyline at dusk, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-meadow",
+      "file": "scene/meadow.png",
+      "size": "1536x1024",
+      "prompt": "a wide green meadow with wildflowers, gentle hills and a big cotton-cloud sky, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-courtyard",
+      "file": "scene/courtyard.png",
+      "size": "1536x1024",
+      "prompt": "a small cozy courtyard with a brick wall, round window, potted herbs and a hanging wind chime, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-starry-hill",
+      "file": "scene/starry-hill.png",
+      "size": "1536x1024",
+      "prompt": "a grassy hilltop at night under a huge starry milky way sky with fireflies, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-riverside",
+      "file": "scene/riverside.png",
+      "size": "1536x1024",
+      "prompt": "a gentle riverside with smooth stones, a tiny wooden bridge and willow branches, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-sakura-park",
+      "file": "scene/sakura-park.png",
+      "size": "1536x1024",
+      "prompt": "a park path under blooming sakura trees with drifting petals, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-autumn-lane",
+      "file": "scene/autumn-lane.png",
+      "size": "1536x1024",
+      "prompt": "a quiet lane with golden ginkgo trees and falling leaves, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-snow-town",
+      "file": "scene/snow-town.png",
+      "size": "1536x1024",
+      "prompt": "a small snowy town street with warm window lights and snowdrifts, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-seaside-cliff",
+      "file": "scene/seaside-cliff.png",
+      "size": "1536x1024",
+      "prompt": "a grassy seaside cliff overlooking turquoise sea with seagulls in the distance, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-greenhouse",
+      "file": "scene/greenhouse.png",
+      "size": "1536x1024",
+      "prompt": "a bright little greenhouse full of plants and hanging pots, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-windmill",
+      "file": "scene/windmill.png",
+      "size": "1536x1024",
+      "prompt": "a Dutch style field with a small windmill and tulip rows, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-library-nook",
+      "file": "scene/library-nook.png",
+      "size": "1536x1024",
+      "prompt": "an outdoor reading nook with bookshelves on a garden wall and a cozy bench, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-lantern-street",
+      "file": "scene/lantern-street.png",
+      "size": "1536x1024",
+      "prompt": "an old street lined with glowing paper lanterns at twilight, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-sunflower-field",
+      "file": "scene/sunflower-field.png",
+      "size": "1536x1024",
+      "prompt": "a vast sunflower field facing the sunrise, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-desert-oasis",
+      "file": "scene/desert-oasis.png",
+      "size": "1536x1024",
+      "prompt": "a tiny desert oasis with a pond and two palm trees under warm sky, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-alpine",
+      "file": "scene/alpine.png",
+      "size": "1536x1024",
+      "prompt": "an alpine meadow with snowy peaks behind and edelweiss flowers, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-night-market",
+      "file": "scene/night-market.png",
+      "size": "1536x1024",
+      "prompt": "a tiny cozy night market stall street with food stands and string lights, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-pond",
+      "file": "scene/pond.png",
+      "size": "1536x1024",
+      "prompt": "a quiet frog pond with lotus and cattails at morning, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-maple-bridge",
+      "file": "scene/maple-bridge.png",
+      "size": "1536x1024",
+      "prompt": "a red arched bridge over a maple stream in autumn, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-cloud-deck",
+      "file": "scene/cloud-deck.png",
+      "size": "1536x1024",
+      "prompt": "a dreamy deck standing on clouds with a rainbow in the sky, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "scene-terrace-cafe",
+      "file": "scene/terrace-cafe.png",
+      "size": "1536x1024",
+      "prompt": "a tiny outdoor cafe terrace with a round table, croissants and flower pots, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "vis-sparrow",
+      "file": "vis/sparrow.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny brown sparrow with round body, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-firefly",
+      "file": "vis/firefly.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a glowing firefly with soft light trail, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-ladybug",
+      "file": "vis/ladybug.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a red ladybug with black spots, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-snail",
+      "file": "vis/snail.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small snail with a swirl shell, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-dragonfly",
+      "file": "vis/dragonfly.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a delicate dragonfly with translucent wings, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-bee",
+      "file": "vis/bee.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round fluffy bumblebee, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-butterfly-blue",
+      "file": "vis/butterfly-blue.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a blue morpho butterfly with open wings, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-butterfly-orange",
+      "file": "vis/butterfly-orange.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small orange monarch butterfly, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-cat",
+      "file": "vis/cat.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small orange tabby kitten sitting, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-dove",
+      "file": "vis/dove.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a white dove standing, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-frog",
+      "file": "vis/frog.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny green tree frog, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-rabbit",
+      "file": "vis/rabbit.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small white bunny with long ears, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-hamster",
+      "file": "vis/hamster.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round golden hamster with cheek pouches, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-hedgehog",
+      "file": "vis/hedgehog.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny hedgehog with soft spikes, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-squirrel",
+      "file": "vis/squirrel.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small brown squirrel holding an acorn, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-turtle",
+      "file": "vis/turtle.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny baby turtle, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-chick",
+      "file": "vis/chick.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small yellow chick (not GuGu, plain chick), single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-owl",
+      "file": "vis/owl.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small round sleepy owl, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-koi",
+      "file": "vis/koi.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a white-orange koi fish jumping with water splash, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-penguin",
+      "file": "vis/penguin.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny chibi penguin waving, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-deer",
+      "file": "vis/deer.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small fawn with white spots, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-raccoon",
+      "file": "vis/raccoon.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small raccoon with a tiny mask face, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-fox",
+      "file": "vis/fox.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small fluffy orange fox curled, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-pufferfish",
+      "file": "vis/pufferfish.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round cute pufferfish, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-moth",
+      "file": "vis/moth.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a fluffy pale luna moth, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-beetle",
+      "file": "vis/beetle.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round green rainbow beetle, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-mouse",
+      "file": "vis/mouse.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny gray mouse holding cheese, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-duckling",
+      "file": "vis/duckling.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small duckling waddling, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-crow",
+      "file": "vis/crow.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small glossy crow with a shiny pebble, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-bat",
+      "file": "vis/bat.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny round bat flying at night, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-crab",
+      "file": "vis/crab.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small orange crab waving claws, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-jellyfish",
+      "file": "vis/jellyfish.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a translucent pink jellyfish floating, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-salamander",
+      "file": "vis/salamander.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small orange salamander, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-hummingbird",
+      "file": "vis/hummingbird.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny hummingbird hovering, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-moth-owl",
+      "file": "vis/moth-owl.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a butterfly-owl moth with patterned wings, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "vis-leaf-spirit",
+      "file": "vis/leaf-spirit.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny spirit made of a glowing green leaf, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-santa",
+      "file": "acc/santa.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute Santa Claus red hat with white fur trim and pom, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-pumpkin",
+      "file": "acc/pumpkin.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute small orange pumpkin bucket hat with a green stem, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-wizard",
+      "file": "acc/wizard.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny blue wizard pointy hat with stars, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-chef",
+      "file": "acc/chef.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a white chef toque hat, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-detective",
+      "file": "acc/detective.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a brown detective deerstalker hat, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-beret",
+      "file": "acc/beret.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a red artist beret, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-cap",
+      "file": "acc/cap.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a baby blue baseball cap, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-bucket",
+      "file": "acc/bucket.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny yellow rain bucket hat, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-flower-crown",
+      "file": "acc/flower-crown.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a delicate crown made of small daisies, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-headphones",
+      "file": "acc/headphones.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute pastel pink over-ear headphones, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-earmuffs",
+      "file": "acc/earmuffs.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute fluffy white earmuffs with a band, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-space-helmet",
+      "file": "acc/space-helmet.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round clear glass space helmet with rainbow reflection, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-sunglasses",
+      "file": "acc/sunglasses.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute cool black wayfarer sunglasses, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-star-glasses",
+      "file": "acc/star-glasses.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute yellow star-shaped party glasses, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-monocle",
+      "file": "acc/monocle.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a single golden monocle with a chain, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-scarf-red",
+      "file": "acc/scarf-red.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a long cozy red knitted scarf, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-scarf-yellow",
+      "file": "acc/scarf-yellow.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a soft mustard yellow scarf, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-bandana",
+      "file": "acc/bandana.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a sky blue polka dot bandana neckerchief, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-necklace",
+      "file": "acc/necklace.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny golden necklace with a fish pendant, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-bell",
+      "file": "acc/bell.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a red collar with a small golden bell, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-wings",
+      "file": "acc/wings.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute tiny white angel wings, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-cape",
+      "file": "acc/cape.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small red superhero cape, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-bag-star",
+      "file": "acc/bag-star.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small yellow star-shaped shoulder bag, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-watch",
+      "file": "acc/watch.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny pastel wristwatch, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-hairpin",
+      "file": "acc/hairpin.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small silver moon hairpin, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-pin-wheel",
+      "file": "acc/pin-wheel.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a colorful small pinwheel on a stick, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-badge-star",
+      "file": "acc/badge-star.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round golden star badge pin, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-umbrella",
+      "file": "acc/umbrella.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny yellow umbrella held tilted, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-grad-cap",
+      "file": "acc/grad-cap.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a black graduation cap with golden tassel, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-tophat",
+      "file": "acc/tophat.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small black top hat with red ribbon, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-straw-circle",
+      "file": "acc/straw-circle.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round straw hat with hollow center (Chinese farmer style), single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-veil",
+      "file": "acc/veil.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a short white wedding veil with tiny flowers, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-crown-flower",
+      "file": "acc/crown-flower.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small crown made of pink cherry blossoms, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-helmet-wood",
+      "file": "acc/helmet-wood.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny wooden viking helmet with small horns, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-nightcap",
+      "file": "acc/nightcap.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a striped blue nightcap with pom tail, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-raincoat-hood",
+      "file": "acc/raincoat-hood.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a yellow raincoat hood, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-crown-ice",
+      "file": "acc/crown-ice.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a crystalline ice crown with snowflake gems, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-mushroom-hat",
+      "file": "acc/mushroom-hat.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a red mushroom cap hat with white dots, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-crown-laurel",
+      "file": "acc/crown-laurel.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a golden laurel wreath crown, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-bonnet",
+      "file": "acc/bonnet.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a vintage blue floral bonnet hat with ribbons, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-glasses-heart",
+      "file": "acc/glasses-heart.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute pink heart-shaped glasses, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-glasses-3d",
+      "file": "acc/glasses-3d.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute retro white 3d movie glasses, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-visor",
+      "file": "acc/visor.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a futuristic cyan visor glasses, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-scarf-check",
+      "file": "acc/scarf-check.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a green and black checkered scarf, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-scarf-rainbow",
+      "file": "acc/scarf-rainbow.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a striped rainbow scarf, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-tie",
+      "file": "acc/tie.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small red bow tie, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-backpack-bear",
+      "file": "acc/backpack-bear.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny brown bear-shaped backpack, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-balloon-hand",
+      "file": "acc/balloon-hand.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a hand-held bunch of three pastel balloons, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-camera",
+      "file": "acc/camera.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small retro pastel camera on a strap, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-icecream",
+      "file": "acc/icecream.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a two-scoop strawberry and matcha ice cream cone, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-flag",
+      "file": "acc/flag.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small waving triangular pennant flag, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "acc-book",
+      "file": "acc/book.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small closed storybook with a bookmark, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-swing",
+      "file": "deco/swing.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small wooden bird swing hanging with ropes, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-bookshelf",
+      "file": "deco/bookshelf.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny bookshelf with colorful books, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-teapot",
+      "file": "deco/teapot.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round pastel teapot with two cups, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-cuckoo",
+      "file": "deco/cuckoo.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small cuckoo clock, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-fountain",
+      "file": "deco/fountain.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny tiered stone fountain with water, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-mail",
+      "file": "deco/mail.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a red mailbox on a wooden post, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-basket-fruit",
+      "file": "deco/basket-fruit.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small basket of red apples, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-candle",
+      "file": "deco/candle.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a lit candle in a glass jar, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-chalkboard",
+      "file": "deco/chalkboard.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small chalkboard on a wooden easel, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-barrel",
+      "file": "deco/barrel.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small wooden barrel, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-birdbath",
+      "file": "deco/birdbath.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small stone birdbath with water, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-hammock",
+      "file": "deco/hammock.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny striped hammock between poles, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-lantern",
+      "file": "deco/lantern.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a glowing paper lantern on a stand, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-clock",
+      "file": "deco/clock.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round wall clock with pastel frame, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-desk",
+      "file": "deco/desk.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny wooden desk with a tiny chair, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-shelf-plant",
+      "file": "deco/shelf-plant.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a hanging shelf with three small plants, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-watering-can",
+      "file": "deco/watering-can.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small green watering can, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-butterfly-house",
+      "file": "deco/butterfly-house.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small wooden butterfly house on a pole, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-mushroom-house",
+      "file": "deco/mushroom-house.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny red mushroom shaped house with a door, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-well",
+      "file": "deco/well.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small stone well with a tiny roof, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-horse",
+      "file": "deco/horse.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny wooden rocking horse toy, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-xylophone",
+      "file": "deco/xylophone.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small colorful toy xylophone, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-treasure-chest",
+      "file": "deco/treasure-chest.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small wooden treasure chest slightly open with glow, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-gramophone",
+      "file": "deco/gramophone.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny golden gramophone, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-sock",
+      "file": "deco/sock.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a red Christmas stocking hanging, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-wreath",
+      "file": "deco/wreath.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a pine wreath with red berries and bow, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-snowman",
+      "file": "deco/snowman.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny snowman with carrot nose, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-pumpkin-lamp",
+      "file": "deco/pumpkin-lamp.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a carved smiling pumpkin jack-o-lantern, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-moon-lamp",
+      "file": "deco/moon-lamp.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a crescent moon shaped night lamp, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-star-jar",
+      "file": "deco/star-jar.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a glass jar with glowing stars inside, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-boat",
+      "file": "deco/boat.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny paper boat, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-kite",
+      "file": "deco/kite.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small diamond kite with a tail, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-barometer",
+      "file": "deco/barometer.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a vintage brass weather station dial, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-vine",
+      "file": "deco/vine.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small potted trailing vine on a stand, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-binoculars",
+      "file": "deco/binoculars.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute small brass binoculars on a stand, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-thermos",
+      "file": "deco/thermos.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a pastel thermos flask with a cup, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-radio",
+      "file": "deco/radio.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small retro radio with antenna, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-cuckoo-owl",
+      "file": "deco/cuckoo-owl.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a wooden owl figurine, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-bathtub",
+      "file": "deco/bathtub.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny round wooden bathtub with steam, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "deco-sign",
+      "file": "deco/sign.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small wooden arrow direction sign, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "egg-matcha",
+      "file": "matcha-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, soft matcha green shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-matcha",
+      "file": "matcha-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', soft matcha green body with pale cream belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-peach",
+      "file": "peach-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, peach orange shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-peach",
+      "file": "peach-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', peach orange body with lighter peach belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-ocean",
+      "file": "ocean-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, deep ocean blue shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-ocean",
+      "file": "ocean-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', deep ocean blue body with foam white belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-grape",
+      "file": "grape-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, deep grape purple shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-grape",
+      "file": "grape-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', deep grape purple body with pale lilac belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-lemon",
+      "file": "lemon-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, bright lemon yellow shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-lemon",
+      "file": "lemon-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', bright lemon yellow body with pale cream belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-sakura-deep",
+      "file": "sakura-deep-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, deep sakura pink shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-sakura-deep",
+      "file": "sakura-deep-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', deep sakura pink body with blush white belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-cotton",
+      "file": "cotton-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, cotton white shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-cotton",
+      "file": "cotton-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', cotton white body with cream belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-charcoal",
+      "file": "charcoal-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, soft charcoal gray shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-charcoal",
+      "file": "charcoal-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', soft charcoal gray body with silver gray belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-caramel",
+      "file": "caramel-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, warm caramel gold shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-caramel",
+      "file": "caramel-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', warm caramel gold body with honey cream belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-mint-deep",
+      "file": "mint-deep-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, deep spearmint shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-mint-deep",
+      "file": "mint-deep-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', deep spearmint body with pale mint belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-coral",
+      "file": "coral-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, coral red shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-coral",
+      "file": "coral-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', coral red body with blush belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-sky",
+      "file": "sky-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, light sky blue shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-sky",
+      "file": "sky-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', light sky blue body with cloud white belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-rose",
+      "file": "rose-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, dusty rose shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-rose",
+      "file": "rose-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', dusty rose body with blush belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "egg-olive",
+      "file": "olive-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, soft olive green shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight, full body, front view, centered composition"
+    },
+    {
+      "key": "body-baby-olive",
+      "file": "olive-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', soft olive green body with pale straw belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-matcha",
+      "file": "matcha-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, matcha body with soft matcha green belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-matcha",
+      "file": "matcha-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, matcha body with soft matcha green belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-peach",
+      "file": "peach-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, peach body with peach orange belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-peach",
+      "file": "peach-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, peach body with peach orange belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-ocean",
+      "file": "ocean-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, ocean body with deep ocean blue belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-ocean",
+      "file": "ocean-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, ocean body with deep ocean blue belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-grape",
+      "file": "grape-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, grape body with deep grape purple belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-grape",
+      "file": "grape-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, grape body with deep grape purple belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-lemon",
+      "file": "lemon-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, lemon body with bright lemon yellow belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-lemon",
+      "file": "lemon-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, lemon body with bright lemon yellow belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-sakura-deep",
+      "file": "sakura-deep-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, sakura-deep body with deep sakura pink belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-sakura-deep",
+      "file": "sakura-deep-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, sakura-deep body with deep sakura pink belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-cotton",
+      "file": "cotton-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, cotton body with cotton white belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-cotton",
+      "file": "cotton-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, cotton body with cotton white belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-charcoal",
+      "file": "charcoal-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, charcoal body with soft charcoal gray belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-charcoal",
+      "file": "charcoal-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, charcoal body with soft charcoal gray belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-caramel",
+      "file": "caramel-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, caramel body with warm caramel gold belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-caramel",
+      "file": "caramel-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, caramel body with warm caramel gold belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-mint-deep",
+      "file": "mint-deep-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, mint-deep body with deep spearmint belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-mint-deep",
+      "file": "mint-deep-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, mint-deep body with deep spearmint belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-coral",
+      "file": "coral-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, coral body with coral red belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-coral",
+      "file": "coral-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, coral body with coral red belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-sky",
+      "file": "sky-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, sky body with light sky blue belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-sky",
+      "file": "sky-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, sky body with light sky blue belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-rose",
+      "file": "rose-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, rose body with dusty rose belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-rose",
+      "file": "rose-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, rose body with dusty rose belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-olive",
+      "file": "olive-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, olive body with soft olive green belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-olive",
+      "file": "olive-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, olive body with soft olive green belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-choco",
+      "file": "choco-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, warm chocolate brown body with lighter cream belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-choco",
+      "file": "choco-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, warm chocolate brown body with lighter cream belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-lavender",
+      "file": "lavender-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, soft lavender purple body with paler lilac belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-lavender",
+      "file": "lavender-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, soft lavender purple body with paler lilac belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-teen-soda",
+      "file": "soda-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, fresh soda blue body with pale sky belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "body-adult-soda",
+      "file": "soda-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, fresh soda blue body with pale sky belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly taking the lower half of the body, full body, front view, centered composition"
+    },
+    {
+      "key": "face-happy",
+      "file": "face/happy.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, beaming with joy, eyes closed happy smile, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-laugh",
+      "file": "face/laugh.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, laughing hard with tears of joy, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-sad",
+      "file": "face/sad.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, teary sad pouting, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-angry",
+      "file": "face/angry.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, puffed cheeks angry pouting, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-surprised",
+      "file": "face/surprised.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, big surprised round eyes and open beak, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-sleepy",
+      "file": "face/sleepy.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, sleepy with Zzz, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-love",
+      "file": "face/love.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, hearts in eyes blushing, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-thinking",
+      "file": "face/thinking.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, thinking with a paw on chin, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-eating",
+      "file": "face/eating.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, cheeks stuffed eating happily, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-singing",
+      "file": "face/singing.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, singing with music notes, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-shy",
+      "file": "face/shy.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, covering face shyly, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-cool",
+      "file": "face/cool.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, sunglasses cool pose, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-cry",
+      "file": "face/cry.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, crying a fountain of tears, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-smug",
+      "file": "face/smug.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, smug smirking, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-wow",
+      "file": "face/wow.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, sparkling star eyes wow, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-sweat",
+      "file": "face/sweat.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, nervous sweating drop, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-proud",
+      "file": "face/proud.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, proud chest out standing tall, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-sneak",
+      "file": "face/sneak.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, tiptoe sneaking, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-dance",
+      "file": "face/dance.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, dancing happily, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-read",
+      "file": "face/read.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, reading a tiny book, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-bath",
+      "file": "face/bath.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, in a bath with bubbles on head, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-sleep-deep",
+      "file": "face/sleep-deep.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, deep sleeping on a pillow, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-sing-mic",
+      "file": "face/sing-mic.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, singing into a tiny microphone, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-gift",
+      "file": "face/gift.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, holding a tiny gift box, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-wave",
+      "file": "face/wave.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, waving hello, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-run",
+      "file": "face/run.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, running fast with motion lines, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-fly",
+      "file": "face/fly.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, flying with tiny wings flapping, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-cook",
+      "file": "face/cook.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, wearing chef hat cooking, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-study",
+      "file": "face/study.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, studying with glasses writing, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-travel",
+      "file": "face/travel.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, wearing straw hat with backpack, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-sick",
+      "file": "face/sick.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, sick with ice bag on head, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-pray",
+      "file": "face/pray.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, praying with paws together, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-cheer",
+      "file": "face/cheer.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, cheering with pom-poms, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-nom",
+      "file": "face/nom.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, about to bite a cookie, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-pat",
+      "file": "face/pat.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, asking for head pats, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-zzz-song",
+      "file": "face/zzz-song.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, humming with closed eyes, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-gasip",
+      "file": "face/gasip.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, whispering gossip, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-panic",
+      "file": "face/panic.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, panicking with flapping wings, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-meh",
+      "file": "face/meh.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, unimpressed flat look, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "face-dizzy",
+      "file": "face/dizzy.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a tiny chibi sticker of the original character 'GuGu', a chubby round cream-yellow baby bird with big sparkly dark eyes, tiny orange beak and pink blush, dizzy with spiral eyes, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "souv-mountain",
+      "file": "souvenir/mountain.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small round gray mountain stone with a snow cap mark, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "souv-beach",
+      "file": "souvenir/beach.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small bracelet made of tiny pink seashells, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "souv-forest",
+      "file": "souvenir/forest.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny red mushroom figurine with white dots, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "souv-town",
+      "file": "souvenir/town.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small red paper lantern ornament, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "souv-onsen",
+      "file": "souvenir/onsen.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small onsen egg in a tiny cup, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "souv-camp",
+      "file": "souvenir/camp.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a postcard with a star map print, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "souv-field",
+      "file": "souvenir/field.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small straw whistle, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "souv-plaza",
+      "file": "souvenir/plaza.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small red balloon with string, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-onigiri",
+      "file": "item/onigiri.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round rice ball with nori belt, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-juice",
+      "file": "item/juice.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small orange juice box with straw, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-pudding",
+      "file": "item/pudding.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a caramel pudding with a cherry, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-donut",
+      "file": "item/donut.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a pink glazed donut with sprinkles, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-hotdog",
+      "file": "item/hotdog.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny hotdog with wavy mustard, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-sushi",
+      "file": "item/sushi.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a salmon nigiri sushi, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-towel",
+      "file": "item/towel.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a folded pastel blue towel, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-brush",
+      "file": "item/brush.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small wooden grooming brush, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-pillow",
+      "file": "item/pillow.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small round mint pillow, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-toy-fish",
+      "file": "item/toy-fish.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small cat toy fish, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-thermos-cup",
+      "file": "item/thermos-cup.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small tea cup with steam, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-star-candy",
+      "file": "item/star-candy.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a wrapped star candy, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-melon-bread",
+      "file": "item/melon-bread.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a melon pan bread, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-strawberry-milk",
+      "file": "item/strawberry-milk.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small strawberry milk bottle, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-shampoo",
+      "file": "item/shampoo.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a tiny duck shampoo bottle, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-sunscreen",
+      "file": "item/sunscreen.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small sunscreen tube, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-fan",
+      "file": "item/fan.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small folding fan, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-warmer",
+      "file": "item/warmer.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a round hand warmer pouch, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-alarm",
+      "file": "item/alarm.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small round twin bell alarm clock, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-diary-book",
+      "file": "item/diary-book.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small diary book with a pen, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-ticket",
+      "file": "item/ticket.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small golden ticket, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-medal",
+      "file": "item/medal.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a golden medal with red ribbon, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-crown-snick",
+      "file": "item/crown-snick.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small chocolate crown, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "item-festival-mask",
+      "file": "item/festival-mask.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a small fox festival mask, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "pc-mountain2",
+      "file": "pc/mountain2.png",
+      "size": "1536x1024",
+      "prompt": "a mountain summit sunrise with sea of clouds below and a tiny flag, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-beach2",
+      "file": "pc/beach2.png",
+      "size": "1536x1024",
+      "prompt": "a beach sunset with a sandcastle and gentle waves, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-forest2",
+      "file": "pc/forest2.png",
+      "size": "1536x1024",
+      "prompt": "a forest at night with glowing mushrooms and fireflies, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-town2",
+      "file": "pc/town2.png",
+      "size": "1536x1024",
+      "prompt": "an old town morning market street with fruit stalls, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-onsen2",
+      "file": "pc/onsen2.png",
+      "size": "1536x1024",
+      "prompt": "an indoor onsen bath with wooden buckets and steam, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-camp2",
+      "file": "pc/camp2.png",
+      "size": "1536x1024",
+      "prompt": "a campsite morning with dew on the tent and birds, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-field2",
+      "file": "pc/field2.png",
+      "size": "1536x1024",
+      "prompt": "a rice field at golden sunset with dragonflies, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-plaza2",
+      "file": "pc/plaza2.png",
+      "size": "1536x1024",
+      "prompt": "a plaza carousel at night with lights, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-mountain3",
+      "file": "pc/mountain3.png",
+      "size": "1536x1024",
+      "prompt": "a snowy mountain trail with cairn stones, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-beach3",
+      "file": "pc/beach3.png",
+      "size": "1536x1024",
+      "prompt": "a rocky tide pool beach with starfish and crabs, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-forest3",
+      "file": "pc/forest3.png",
+      "size": "1536x1024",
+      "prompt": "an autumn forest path with red maple leaves, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-town3",
+      "file": "pc/town3.png",
+      "size": "1536x1024",
+      "prompt": "a rainy old town alley with umbrellas and reflections, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-onsen3",
+      "file": "pc/onsen3.png",
+      "size": "1536x1024",
+      "prompt": "an open air rotenburo onsen surrounded by snow monkeys far away, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-camp3",
+      "file": "pc/camp3.png",
+      "size": "1536x1024",
+      "prompt": "a cozy campfire with marshmallows and guitar, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-field3",
+      "file": "pc/field3.png",
+      "size": "1536x1024",
+      "prompt": "a morning field with scarecrow and mist, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "pc-plaza3",
+      "file": "pc/plaza3.png",
+      "size": "1536x1024",
+      "prompt": "a plaza fountain at noon with pigeons, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "misc-memorial-bg",
+      "file": "misc/memorial-bg.png",
+      "size": "1536x1024",
+      "prompt": "a dreamy night sky with soft clouds, gentle stars and a single floating feather, peaceful farewell mood, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "misc-hero-banner",
+      "file": "misc/hero-banner.png",
+      "size": "1536x1024",
+      "prompt": "a wide cheerful banner illustration of kawaii pastel world with a chubby cream bird silhouette, stars and snacks, storybook style, no text"
+    },
+    {
+      "key": "misc-egg-nest",
+      "file": "misc/egg-nest.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "a cute a cozy straw nest with a single cream egg inside, warm light, single object only, kawaii flat sticker style, thick dark brown outline, soft pastel colors, transparent background, no watermark, no text, centered"
+    },
+    {
+      "key": "misc-season-spring",
+      "file": "misc/season-spring.png",
+      "size": "1536x1024",
+      "prompt": "a spring themed kawaii landscape scene, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "misc-season-summer",
+      "file": "misc/season-summer.png",
+      "size": "1536x1024",
+      "prompt": "a summer themed kawaii landscape scene, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "misc-season-autumn",
+      "file": "misc/season-autumn.png",
+      "size": "1536x1024",
+      "prompt": "a autumn themed kawaii landscape scene, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
+    },
+    {
+      "key": "misc-season-winter",
+      "file": "misc/season-winter.png",
+      "size": "1536x1024",
+      "prompt": "a winter themed kawaii landscape scene, kawaii flat illustration postcard art, soft pastel colors, cute storybook style, no text, no watermark, no characters, wide landscape composition"
     }
   ]
 }
