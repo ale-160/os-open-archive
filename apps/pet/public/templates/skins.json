@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skins": [
+    {
+      "id": "community-midnight",
+      "name": "星空夜夜",
+      "nameEn": "Midnight",
+      "author": "ale-160",
+      "file": "midnight.png",
+      "faceOverlay": true,
+      "zhDesc": "缀着星星的深夜蓝咕咕",
+      "enDesc": "A midnight-blue GuGu sprinkled with stars"
+    },
+    {
+      "id": "community-strawberry",
+      "name": "草莓牛乳",
+      "nameEn": "Strawberry Milk",
+      "author": "ale-160",
+      "file": "strawberry.png",
+      "faceOverlay": true,
+      "zhDesc": "草莓点缀的奶白咕咕",
+      "enDesc": "A cream GuGu with strawberry dots"
+    }
+  ]
+}

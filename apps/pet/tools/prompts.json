@@ -1,0 +1,96 @@
+{
+  "style": "kawaii flat sticker illustration, soft pastel colors, thick dark brown outline, subtle highlight shading, front view, full body, centered composition, transparent background, no watermark, no text",
+  "assets": [
+    {
+      "key": "body-baby-cream",
+      "file": "cream-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', cream yellow body with lighter cream belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+    },
+    {
+      "key": "body-baby-mint",
+      "file": "mint-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', soft mint green body with lighter mint belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+    },
+    {
+      "key": "body-baby-sakura",
+      "file": "sakura-baby.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', cherry blossom pink body with lighter pink belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+    },
+    {
+      "key": "body-teen-cream",
+      "file": "cream-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, cream yellow body with lighter cream belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+    },
+    {
+      "key": "body-teen-mint",
+      "file": "mint-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, soft mint green body with lighter mint belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+    },
+    {
+      "key": "body-teen-sakura",
+      "file": "sakura-teen.png",
+      "size": "1024x1024",
+      "prompt": "a chubby young teenage chick-like bird original character 'GuGu', slightly taller than a baby chick with small grown feather wings and a short budding tail, cherry blossom pink body with lighter pink belly, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+    },
+    {
+      "key": "body-adult-cream",
+      "file": "cream-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, cream yellow body with lighter cream belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+    },
+    {
+      "key": "body-adult-mint",
+      "file": "mint-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, soft mint green body with lighter mint belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+    },
+    {
+      "key": "body-adult-sakura",
+      "file": "sakura-adult.png",
+      "size": "1024x1024",
+      "prompt": "a plump grown-up round bird original character 'GuGu', elegant larger wings and a fluffy proud tail, confident upright pose, cherry blossom pink body with lighter pink belly, orange webbed feet, a neat tuft of two feathers on top of head, faceless (no eyes, no beak, no mouth), big round belly taking the lower half of the body"
+    },
+    {
+      "key": "egg-cream",
+      "file": "cream-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, cream yellow shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight"
+    },
+    {
+      "key": "egg-mint",
+      "file": "mint-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, soft mint green shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight"
+    },
+    {
+      "key": "egg-sakura",
+      "file": "sakura-egg.png",
+      "size": "1024x1024",
+      "prompt": "a single upright decorated egg, cherry blossom pink shell with wavy white zigzag band around the middle and one small orange heart motif, no face, standing straight"
+    },
+    {
+      "key": "tpl-midnight",
+      "file": "midnight.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', deep midnight blue body with tiny star speckles and lighter blue belly, small stubby wings, tiny orange webbed feet, a small tuft of two feathers on top of head, faceless (no eyes, beak or mouth), big round belly"
+    },
+    {
+      "key": "tpl-strawberry",
+      "file": "strawberry.png",
+      "size": "1024x1024",
+      "prompt": "a chubby round baby chick-like bird original character 'GuGu', strawberry milk white-pink body with tiny strawberry red dots and cream belly, small stubby wings, tiny orange webbed feet, a small leaf-shaped tuft on top of head, faceless (no eyes, beak or mouth), big round belly"
+    },
+    {
+      "key": "app-icon",
+      "file": "app-icon.png",
+      "size": "1024x1024",
+      "square": true,
+      "prompt": "cute round baby chick bird head portrait original character 'GuGu', cream yellow with lighter cream face, big sparkly dark eyes, tiny orange beak, soft pink blush circles, a small tuft of two feathers on top of head, joyful smile, head and upper body only"
+    }
+  ]
+}
