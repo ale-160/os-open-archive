@@ -1,0 +1,14 @@
+{
+  "style": "kawaii flat illustration, soft pastel colors, cute storybook style, no text, no watermark, wide landscape composition",
+  "assets": [
+    { "key": "scene-pds-yaoshan", "file": "misc/scene-pds-yaoshan.png", "size": "1536x1024", "prompt": "a majestic mountain peak with sea of clouds at golden sunrise, winding stone trail, pines on cliffs, inspired by Mount Yao in Henan, wide landscape" },
+    { "key": "scene-pds-buddha", "file": "misc/scene-pds-buddha.png", "size": "1536x1024", "prompt": "a serene giant golden buddha statue among green mountains, temple roofs below, incense smoke curls, inspired by the Spring Temple Buddha, wide landscape" },
+    { "key": "scene-pds-xiangshan", "file": "misc/scene-pds-xiangshan.png", "size": "1536x1024", "prompt": "a tranquil ancient temple courtyard with a big bronze bell, old trees, stone lanterns and drifting incense, wide landscape" },
+    { "key": "scene-pds-baiguihu", "file": "misc/scene-pds-baiguihu.png", "size": "1536x1024", "prompt": "a wide calm lake wetland with white egrets flying, reeds and lotus leaves, soft morning mist, wide landscape" },
+    { "key": "scene-pds-huameigu", "file": "misc/scene-pds-huameigu.png", "size": "1536x1024", "prompt": "a lush green valley with a cascading waterfall stream, red azalea flowers on slopes, wooden walkway, wide landscape" },
+    { "key": "scene-pds-majie", "file": "misc/scene-pds-majie.png", "size": "1536x1024", "prompt": "a lively folk art fair on a golden wheat field, tiny stages with red banners, crowds listening to storytelling, wide landscape" },
+    { "key": "scene-pds-sansu", "file": "misc/scene-pds-sansu.png", "size": "1536x1024", "prompt": "a solemn ancient garden with tall dark cypress trees, stone tomb and temple roof, fallen leaves on stone path, wide landscape" },
+    { "key": "scene-pds-linfengzhai", "file": "misc/scene-pds-linfengzhai.png", "size": "1536x1024", "prompt": "an ancient village fortress with warm red sandstone walls and arched gate, moat reflection, wide landscape" },
+    { "key": "scene-pds-plaza", "file": "misc/scene-pds-plaza.png", "size": "1536x1024", "prompt": "a cheerful city square at dusk with a fountain, modern buildings behind, lanterns and pigeons, inspired by a Henan city plaza, wide landscape" }
+  ]
+}
