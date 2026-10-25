@@ -32,7 +32,7 @@ let ok = 0;
 for (const { full, rel } of manifest) {
   const ext = path.extname(rel).toLowerCase();
   const ct = ext === '.png' ? 'image/png' : ext === '.mp3' ? 'audio/mpeg' : 'application/octet-stream';
-  const r = spawnSync('npx', ['wrangler', 'r2', 'object', 'put', `gugu/public/gugu/${rel}`, '--file', full, '--content-type', ct], {
+  const r = spawnSync('npx', ['wrangler', 'r2', 'object', 'put', '--remote', `gugu/public/gugu/${rel}`, '--file', full, '--content-type', ct], {
     stdio: 'pipe',
     shell: process.platform === 'win32',
   });
