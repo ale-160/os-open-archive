@@ -4,7 +4,7 @@
  * 用法：node tools/upload-r2.mjs [--dry]
  */
 import { spawnSync } from 'node:child_process';
-import { readdirSync, statSync, existsSync, writeFileSync } from 'node:fs';
+import { readdirSync, statSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -32,7 +32,7 @@ let ok = 0;
 for (const { full, rel } of manifest) {
   const ext = path.extname(rel).toLowerCase();
   const ct = ext === '.png' ? 'image/png' : ext === '.mp3' ? 'audio/mpeg' : 'application/octet-stream';
-  const r = spawnSync('npx', ['wrangler', 'r2', 'object', 'put', '--remote', `gugu/public/gugu/${rel}`, '--file', full, '--content-type', ct], {
+  const r = spawnSync('npx', ['wrangler', 'r2', 'object', 'put', '--remote', `public/gugu/${rel}`, '--file', full, '--content-type', ct], {
     stdio: 'pipe',
     shell: process.platform === 'win32',
   });
