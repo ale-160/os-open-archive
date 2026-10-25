@@ -298,7 +298,9 @@ const targetSize = (() => {
   return i >= 0 ? parseInt(args[i + 1], 10) : 512;
 })();
 
-const { style, assets } = JSON.parse(readFileSync(path.join(here, 'prompts.json'), 'utf8'));
+const setArg = process.argv.indexOf('--set');
+const setFile = setArg >= 0 ? process.argv[setArg + 1] : 'prompts.json';
+const { style, assets } = JSON.parse(readFileSync(path.join(here, setFile), 'utf8'));
 mkdirSync(outDir, { recursive: true });
 mkdirSync(rawDir, { recursive: true });
 
